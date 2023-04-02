@@ -1,7 +1,6 @@
-# My warehouse app
-> Notice: This is my first Flutter app so feel free to contact me for any mistakes that i made.
 
-Simple app for warehouse management for Android & iOS developed with Flutter 1.7.8 and Firebase.
+
+Simple app for warehouse management for Medicines -  Android & iOS developed with Flutter and Firebase.
 
 ## Getting Started
 
@@ -20,4 +19,3 @@ In this app you can:
 - Have a two types of users. Admin and regular user, where admin has all rights and regular user all or just some.
 - Log all types of events using Firebase Analytics service.
 
-## Screenshots
